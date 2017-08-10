@@ -1,5 +1,5 @@
-16
-16
-v0.0.16!
-v0.0.16!
+18
+18
+v0.0.18!
+v0.0.18!
 bitbucket.org/juh9870/moonshine-gdx-master/src

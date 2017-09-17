@@ -1,5 +1,5 @@
-0
-0
+41
+41
 v0.0.41!
 v0.0.41!
-drive.google.com/open?id=0B_q1ny0X4OeMMms1ZWtVaGJ4MU0
+https://bitbucket.org/juh9870/moonshine/downloads/

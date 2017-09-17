@@ -1,5 +1,5 @@
 41
-40
-v0.1.1!
-v0.1.1!
+41
+v0.1.1a!
+v0.1.1a!
 https://bitbucket.org/juh9870/moonshine/downloads/

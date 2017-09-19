@@ -3,5 +3,5 @@
 v0.1.4!
 v0.1.4!
 bitbucket.org/juh9870/moonshine/downloads/
-LOTS of bugfixes with levelgen and especially with blackjack challenge\nOld saves no longer openable
-LOTS of bugfixes with levelgen and especially with blackjack challenge\nOld saves no longer openable
+LOTS of bugfixes with levelgen and especially with blackjack challenge. Old saves no longer openable
+LOTS of bugfixes with levelgen and especially with blackjack challenge. Old saves no longer openable

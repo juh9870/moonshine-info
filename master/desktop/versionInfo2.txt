@@ -1,7 +1,7 @@
-43
-40
-v0.1.3!
-v0.1.0!
+44
+44
+v0.1.4!
+v0.1.4!
 bitbucket.org/juh9870/moonshine/downloads/
-Fixed lots of crashes with guns, some fixes to trapper subclass
-First release
+LOTS of bugfixes with levelgen and especially with blackjack challenge\nOld saves no longer openable
+LOTS of bugfixes with levelgen and especially with blackjack challenge\nOld saves no longer openable

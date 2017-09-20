@@ -1,7 +1,7 @@
-43
-40
-v0.1.3!
-v0.1.0!
+45
+44
+v0.1.5!
+v0.1.4!
 bitbucket.org/juh9870/moonshine/downloads/
-Fixed lots of crashes with guns, some fixes to trapper subclass
-First release
+LOTS of bugfixes with levelgen and especially with blackjack challenge. Old saves no longer openable
+Added 2 new room types%1$ssome bugfixes, removed non-standart bullets, bullet now have a chance to cause bleeding on hit

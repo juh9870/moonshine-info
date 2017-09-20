@@ -3,5 +3,5 @@
 v0.1.5!
 v0.1.4!
 bitbucket.org/juh9870/moonshine/downloads/
-Added 2 new room types|nsome bugfixes, removed non-standart bullets|nbullet now have a chance to cause bleeding on hit
+Added 2 new room types/nsome bugfixes, removed non-standart bullets/nbullet now have a chance to cause bleeding on hit
 LOTS of bugfixes with levelgen and especially with blackjack challenge. Old saves no longer openable

@@ -3,5 +3,5 @@
 v0.1.7!
 v0.1.4!
 bitbucket.org/juh9870/moonshine/downloads/
-Fixed crash on leving 10'th floor, fixed some gunslinger-related bugs
+Fixed crash on leving 10'th floor/nfixed some gunslinger-related bugs/nYou no longer can sell gunslinger's subbag
 LOTS of bugfixes with levelgen and especially with blackjack challenge. Old saves no longer openable

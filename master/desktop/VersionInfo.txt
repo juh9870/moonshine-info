@@ -1,7 +1,7 @@
-46
+47
 44
-v0.1.6!
+v0.1.7!
 v0.1.4!
 bitbucket.org/juh9870/moonshine/downloads/
-Fixed game freezing on level loading, fixed pit room bugs.
+Fixed crash on leving 10'th floor, fixed some gunslinger-related bugs
 LOTS of bugfixes with levelgen and especially with blackjack challenge. Old saves no longer openable

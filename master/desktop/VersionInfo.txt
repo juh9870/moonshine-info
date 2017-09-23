@@ -1,6 +1,6 @@
 48
 44
-v0.1.7!
+v0.1.8!
 v0.1.4!
 bitbucket.org/juh9870/moonshine/downloads/
 Fixed some bugs/nAdded cluster bomb/nadded new enemy - bombergnoll

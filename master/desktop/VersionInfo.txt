@@ -1,7 +1,7 @@
-48
-44
-v0.1.8!
-v0.1.4!
+49
+49
+v0.1.9!
+v0.1.9!
 bitbucket.org/juh9870/moonshine/downloads/
-Fixed some bugs/nAdded cluster bomb/nadded new enemy - bombergnoll
-LOTS of bugfixes with levelgen and especially with blackjack challenge. Old saves no longer openable
+Added new boss(still WIP), to test choose "Test" storyline, also includes bugfixes
+Added new boss(still WIP), to test choose "Test" storyline, also includes bugfixes

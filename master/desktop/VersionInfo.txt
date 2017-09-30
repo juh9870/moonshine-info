@@ -1,7 +1,7 @@
+50
 49
-49
-v0.1.9!
+v0.1.10!
 v0.1.9!
 bitbucket.org/juh9870/moonshine/downloads/
-Added new boss(still WIP), to test choose "Test" storyline, also includes bugfixes
+Added new weapon - switch hook. Some bugfixes
 Added new boss(still WIP), to test choose "Test" storyline, also includes bugfixes

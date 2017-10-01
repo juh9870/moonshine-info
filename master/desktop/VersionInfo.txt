@@ -1,7 +1,7 @@
-50
+51
 49
-v0.1.10!
+v0.1.11!
 v0.1.9!
 bitbucket.org/juh9870/moonshine/downloads/
-Added new weapon - switch hook. Some bugfixes
+Added new weapon - bamboo spear. Reworked Lucky enchantment to make it more useful./nSwitch hook, Giant shuriken, Steel claw, Switch hook and Bamboo spear now have random tier from 2 to 5.
 Added new boss(still WIP), to test choose "Test" storyline, also includes bugfixes

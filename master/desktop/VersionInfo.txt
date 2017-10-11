@@ -1,7 +1,7 @@
-51
+52
 49
-v0.1.11!
+v0.1.12!
 v0.1.9!
 bitbucket.org/juh9870/moonshine/downloads/
-Added new weapon - bamboo spear. Reworked Lucky enchantment to make it more useful./nSwitch hook, Giant shuriken, Steel claw, Switch hook and Bamboo spear now have random tier from 2 to 5.
+All weapons now have 5% chance to spawn with +-1 tier, Shopkeeper now will attack hero instead of fleeing, Goo now drops weapon upgrade kit instead of Lloyds Beacon. Lloyds Beacon now generates as regular artifact. Improved guns stats description
 Added new boss(still WIP), to test choose "Test" storyline, also includes bugfixes

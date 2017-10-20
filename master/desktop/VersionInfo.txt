@@ -1,7 +1,7 @@
-52
+53
 49
-v0.1.12!
+v0.1.13!
 v0.1.9!
 bitbucket.org/juh9870/moonshine/downloads/
-All weapons now have 5% chance to spawn with +-1 tier, Shopkeeper now will attack hero instead of fleeing, Goo now drops weapon upgrade kit instead of Lloyds Beacon. Lloyds Beacon now generates as regular artifact. Improved guns stats description
+First android release, you can download it from downloads page by clicking button below/nSome bugfixes in desctop version
 Added new boss(still WIP), to test choose "Test" storyline, also includes bugfixes

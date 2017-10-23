@@ -1,7 +1,7 @@
-55
+56
 49
-v0.1.15!
+v0.1.16!
 v0.1.9!
 bitbucket.org/juh9870/moonshine/downloads/
-Now you can change name of your hero. Some bugfixes
+New item - _Bottle of moonshine_, new _Drunk_ buff/nRandom nicknames generator/nFixed screen orientation and back buttons on android/nLots of bugfixes
 Added new boss(still WIP), to test choose "Test" storyline, also includes bugfixes

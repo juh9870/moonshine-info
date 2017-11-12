@@ -1,7 +1,7 @@
-56
-49
-v0.1.16!
-v0.1.9!
+57
+57
+v0.1.17!
+v0.1.17!
 bitbucket.org/juh9870/moonshine/downloads/
-New item - _Bottle of moonshine_, new _Drunk_ buff/nRandom nicknames generator/nFixed screen orientation and back buttons on android/nLots of bugfixes
-Added new boss(still WIP), to test choose "Test" storyline, also includes bugfixes
+Update checker now available on android/nFixed scythe/nAdded item renaming, you can buy it in new moonstone shop using moonstones that drops from bosses
+Update checker now available on android/nFixed scythe/nAdded item renaming, you can buy it in new moonstone shop using moonstones that drops from bosses

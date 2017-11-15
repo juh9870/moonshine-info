@@ -1,7 +1,7 @@
-58
+59
 57
-v0.1.18!
+v0.1.19!
 v0.1.17!
 bitbucket.org/juh9870/moonshine/downloads/
-You can now have unlimited records in rankings/nAdded some new items to Moonstone shop/nFixed some bugs from 0.1.17
+0.1.19: Quickfix: removed infinite moonstones given on game start/nFixed drunk buff icon/n/n0.1.18: You can now have unlimited records in rankings/nAdded some new items to Moonstone shop/nFixed some bugs from 0.1.17
 Update checker now available on android/nFixed scythe/nAdded item renaming, you can buy it in new moonstone shop using moonstones that drops from bosses

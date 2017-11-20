@@ -1,7 +1,6 @@
-59
+60
 57
-v0.1.19!
+v0.1.20!
 v0.1.17!
-bitbucket.org/juh9870/moonshine/downloads/
-0.1.19: Quickfix: removed infinite moonstones given on game start/nFixed drunk buff icon/n/n0.1.18: You can now have unlimited records in rankings/nAdded some new items to Moonstone shop/nFixed some bugs from 0.1.17
+Some mobs now have sleeping animation/nNew challenge: Analgesia/nFixed bug with rankings saving
 Update checker now available on android/nFixed scythe/nAdded item renaming, you can buy it in new moonstone shop using moonstones that drops from bosses

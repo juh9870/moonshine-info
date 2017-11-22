@@ -2,5 +2,6 @@
 57
 v0.1.20!
 v0.1.17!
+bitbucket.org/juh9870/moonshine/downloads/
 Some mobs now have sleeping animation/nNew challenge: Analgesia/nFixed bug with rankings saving
 Update checker now available on android/nFixed scythe/nAdded item renaming, you can buy it in new moonstone shop using moonstones that drops from bosses

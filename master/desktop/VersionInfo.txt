@@ -1,7 +1,7 @@
-60
+62
 57
-v0.1.20!
+v0.1.22!
 v0.1.17!
 bitbucket.org/juh9870/moonshine/downloads/
-Some mobs now have sleeping animation/nNew challenge: Analgesia/nFixed bug with rankings saving
+Added 4 new Challenges: Plan overfulfilment, Mutagen, Resurrection and Extreme caution/nPorted Potion of Healing and Dev Vial logic from newest Shattered PD/nAdded new Plant - Rain Poppy used to brew Potion of Storm/nFixed bugs with upgrading cursed weapon, armor, etc./nFixed Disassembling Rings to scrap with Gunslinger's Subbag
 Update checker now available on android/nFixed scythe/nAdded item renaming, you can buy it in new moonstone shop using moonstones that drops from bosses

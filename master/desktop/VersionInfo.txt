@@ -1,7 +1,7 @@
-62
+63
 57
-v0.1.22!
+v0.1.23!
 v0.1.17!
 bitbucket.org/juh9870/moonshine/downloads/
-Added 4 new Challenges: Plan overfulfilment, Mutagen, Resurrection and Extreme caution/nPorted Potion of Healing and Dew Vial logic from newest Shattered PD/nAdded new Plant - Rain Poppy used to brew Potion of Storm/nFixed bugs with upgrading cursed weapon, armor, etc./nFixed Disassembling Rings to scrap with Gunslinger's Subbag/nWARNING: You MUST delete current version of game before installing this one!
+Added 2 new Challenges: Extermination, and Facie ad faciem/nRain poppy seeds can now spawn when trampling grass/nFixed Rat Kins sleep animation/nFixed Map seed button in rankings window/nSlightly changed Tengu bossfight
 Update checker now available on android/nFixed scythe/nAdded item renaming, you can buy it in new moonstone shop using moonstones that drops from bosses

@@ -1,8 +1,8 @@
-63
+65
 57
-v0.1.23!
+v0.1.25!
 v0.1.17!
 bitbucket.org/juh9870/moonshine/downloads/
-Added 2 new Challenges: Extermination, and Facie ad faciem/nRain poppy seeds can now spawn when trampling grass/nFixed Rat Kins sleep animation/nFixed Map seed button in rankings window/nSlightly changed Tengu bossfight
+Added new Challenge: Rust/nPorted Ring of Wealth and Wand of Corruption from newest Shattered PD/nFixed some crashes/nAdded new enchantment - Greedy
 Update checker now available on android/nFixed scythe/nAdded item renaming, you can buy it in new moonstone shop using moonstones that drops from bosses
 play.google.com/store/apps/details?id=com.moonshinepixel.moonshinepixeldungeon

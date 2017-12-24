@@ -1,6 +1,6 @@
 66
 57
-v0.1.25!
+v0.1.26!
 v0.1.17!
 bitbucket.org/juh9870/moonshine/downloads/
 0.1.25:Added new Challenge: Rust/nPorted Ring of Wealth and Wand of Corruption from newest Shattered PD/nFixed some crashes/nAdded new enchantment - Greedy/n0.1.26: android only, black text fix

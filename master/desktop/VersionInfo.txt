@@ -1,8 +1,8 @@
-66
+67
 57
-v0.1.26!
+v0.1.27!
 v0.1.17!
 bitbucket.org/juh9870/moonshine/downloads/
-0.1.25:Added new Challenge: Rust/nPorted Ring of Wealth and Wand of Corruption from newest Shattered PD/nFixed some crashes/nAdded new enchantment - Greedy/n0.1.26: android only, black text fix
+Fixed loading pre-0.1.25 saves/nFixed null-items in inventory/nFixed 0-cell FOV/nFixed all items were broken on save loading/nFixed !!NO_TEXT_FOUND!!! named challenge
 Update checker now available on android/nFixed scythe/nAdded item renaming, you can buy it in new moonstone shop using moonstones that drops from bosses
 play.google.com/store/apps/details?id=com.moonshinepixel.moonshinepixeldungeon

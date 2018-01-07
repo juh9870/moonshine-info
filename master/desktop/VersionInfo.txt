@@ -1,8 +1,9 @@
-67
+69
 57
-v0.1.27!
+v0.1.29!
 v0.1.17!
 bitbucket.org/juh9870/moonshine/downloads/
-Fixed loading pre-0.1.25 saves/nFixed null-items in inventory/nFixed 0-cell FOV/nFixed all items were broken on save loading/nFixed !!NO_TEXT_FOUND!!! named challenge
+Lots of bugfixes
+Scroll of magic mapping can no longer be used in garden boss level
 Update checker now available on android/nFixed scythe/nAdded item renaming, you can buy it in new moonstone shop using moonstones that drops from bosses
 play.google.com/store/apps/details?id=com.moonshinepixel.moonshinepixeldungeon

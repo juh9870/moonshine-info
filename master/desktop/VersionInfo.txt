@@ -1,9 +1,9 @@
-69
+71
 57
-v0.1.29!
+v0.1.31!
 v0.1.17!
 bitbucket.org/juh9870/moonshine/downloads/
 Lots of bugfixes
-Scroll of magic mapping can no longer be used in garden boss level
+Fixed lot of crushes (again)/nFixed some bugs/nSlightly buffed _Amnesia_ and _Analgesia_ challenges/nFixed challenges window
 Update checker now available on android/nFixed scythe/nAdded item renaming, you can buy it in new moonstone shop using moonstones that drops from bosses
 play.google.com/store/apps/details?id=com.moonshinepixel.moonshinepixeldungeon
